@@ -10,6 +10,9 @@
 - [用两个栈实现队列](https://github.com/Dagon0577/Algorithmic-practice/blob/master/用两个栈实现队列.java)
 - [旋转数组的最小数字](https://github.com/Dagon0577/Algorithmic-practice/blob/master/旋转数组的最小数字.java)
 - [斐波那契数列](https://github.com/Dagon0577/Algorithmic-practice/blob/master/斐波那契数列.java)
+- [跳台阶](https://github.com/Dagon0577/Algorithmic-practice/blob/master/跳台阶.java)
+- [变态跳台阶](https://github.com/Dagon0577/Algorithmic-practice/blob/master/变态跳台阶.java)
+- [矩形覆盖](https://github.com/Dagon0577/Algorithmic-practice/blob/master/矩形覆盖.java)
 ---
 ## 详细解答
 [我的CSDN](https://blog.csdn.net/dagon123/article/details/84975435)
