@@ -13,6 +13,9 @@
 - [跳台阶](https://github.com/Dagon0577/Algorithmic-practice/blob/master/跳台阶.java)
 - [变态跳台阶](https://github.com/Dagon0577/Algorithmic-practice/blob/master/变态跳台阶.java)
 - [矩形覆盖](https://github.com/Dagon0577/Algorithmic-practice/blob/master/矩形覆盖.java)
+- [二进制中1的个数](https://github.com/Dagon0577/Algorithmic-practice/blob/master/二进制中1的个数.java)
+- [数值的整数次方](https://github.com/Dagon0577/Algorithmic-practice/blob/master/数值的整数次方.java)
+- [调整数组顺序使奇数位于偶数前面](https://github.com/Dagon0577/Algorithmic-practice/blob/master/调整数组顺序使奇数位于偶数前面.java)
 ---
 ## 详细解答
 [我的CSDN](https://blog.csdn.net/dagon123/article/details/84975435)
