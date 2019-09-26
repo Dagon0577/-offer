@@ -4,21 +4,21 @@
 public class Solution {
     public double Power(double base, int exponent) {
         double result = 1.0;
-        
-        if(exponent > 0){
-            for(int i = 1; i <= exponent; ++i){
+
+        if (exponent > 0) {
+            for (int i = 1; i <= exponent; ++i) {
                 result *= base;
             }
-        }else if(exponent == 0){
+        } else if (exponent == 0) {
             return result;
-        }else{
-            if(base ==0)
+        } else {
+            if (base == 0)
                 throw new RuntimeException("分母不能为零");
-            for(int i = 1; i <= -exponent; ++i){
+            for (int i = 1; i <= -exponent; ++i) {
                 result *= base;
             }
             result = 1 / result;
         }
         return result;
-  }
+    }
 }

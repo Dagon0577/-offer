@@ -5,22 +5,23 @@ n<=39
 */
 
 public class Solution {
-    //递归
+    // 递归
     public int Fibonacci(int n) {
-        if(n==0)
+        if (n == 0)
             return 0;
-        if(n==1||n==2)
+        if (n == 1 || n == 2)
             return 1;
         else
-            return Fibonacci(n-1)+Fibonacci(n-2);
+            return Fibonacci(n - 1) + Fibonacci(n - 2);
     }
-    //非递归 打表
+
+    // 非递归 打表
     public int Fibonacci2(int n) {
-        int [] result=new int[40];
-        result[1]=1;
-        result[2]=1;
-        for(int i=3;i<=n;i++)
-            result[i]=result[i-2]+result[i-1];
+        int[] result = new int[40];
+        result[1] = 1;
+        result[2] = 1;
+        for (int i = 3; i <= n; i++)
+            result[i] = result[i - 2] + result[i - 1];
         return result[n];
     }
 }
